@@ -1,21 +1,21 @@
 {
-  "name": "mysql-pool",
+  "name": "mysql-pool-03",
   "description": "MySQL connection pool for node.js on top of node-mysql.",
   "version": "0.2.2",
-  "homepage": "https://github.com/Kijewski/node-mysql-pool",
+  "homepage": "https://github.com/Foukaridis/node-mysql-pool",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Kijewski/node-mysql-pool.git"
+    "url": "git@github.com:Foukaridis/node-mysql-pool.git"
   },
-  "author": "Rene Kijewski <rene.SURNAME@fu-berlin.de> (https://github.com/Kijewski)",
-  "main": "./",
+  "author": "S. Foukaridis (https://github.com/Foukaridis)",
+  "main": "index.js",
   "directories": {
     "lib": "lib/mysql-pool"
   },
   "engines": {
-    "node": ">=0.4.0"
+    "node": ">=7.7.1"
   },
   "devDependencies": {
-    "mysql": ">=0.9.2"
+    "mysql": ">=2.6.1"
   }
 }
