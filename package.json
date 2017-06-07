@@ -1,7 +1,7 @@
 {
   "name": "mysql-pool-03",
   "description": "MySQL connection pool for node.js on top of node-mysql.",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://github.com/Foukaridis/node-mysql-pool",
   "repository": {
     "type": "git",
